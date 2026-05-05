@@ -1,0 +1,1 @@
+This package changes only the service footprint / connection map visual panel. The old radar node panel was replaced with the approved OSINT Signal Map image. All other website sections were left untouched.
